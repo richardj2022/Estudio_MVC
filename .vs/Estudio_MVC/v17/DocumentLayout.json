@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DESARROLLO\\ESTUDIO\\ASP.NET\\Estudio_MVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5641F15-E1F6-4975-AFA7-1A7D17E41B5D}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|e:\\desarrollo\\estudio\\asp.net\\estudio_mvc\\capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5641F15-E1F6-4975-AFA7-1A7D17E41B5D}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5641F15-E1F6-4975-AFA7-1A7D17E41B5D}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|e:\\desarrollo\\estudio\\asp.net\\estudio_mvc\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5641F15-E1F6-4975-AFA7-1A7D17E41B5D}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DESARROLLO\\ESTUDIO\\ASP.NET\\Estudio_MVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DESARROLLO\\ESTUDIO\\ASP.NET\\Estudio_MVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T03:10:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DESARROLLO\\ESTUDIO\\ASP.NET\\Estudio_MVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DESARROLLO\\ESTUDIO\\ASP.NET\\Estudio_MVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:10:15.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

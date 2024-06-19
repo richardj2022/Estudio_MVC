@@ -26,5 +26,11 @@ namespace CapaPresentacionAdmin.Controllers
 
             return View();
         }
+
+        public ActionResult PaginaTest()
+        {
+            //ViewBag.Message = "Pagina de Test";
+            return View();
+        }
     }
 }
